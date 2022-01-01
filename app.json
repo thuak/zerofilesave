@@ -1,13 +1,13 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "Zero File Save",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/zerosquad13/zerofilesave",
+  "logo": "https://telegra.ph/file/8df319c48529c36e7785c.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -35,11 +35,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "𝐇𝐞𝐥𝐥𝐨 {mention}\n\n𝐒𝐚𝐲𝐚 𝐚𝐤𝐚𝐧 𝐦𝐞𝐧𝐠𝐮𝐛𝐚𝐡 𝐟𝐢𝐥𝐞 𝐦𝐞𝐧𝐣𝐚𝐝𝐢 𝐬𝐩𝐞𝐬𝐢𝐚𝐥 𝐥𝐢𝐧𝐤."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "𝐇𝐞𝐥𝐥𝐨 {mention}\n\n<b>𝐊𝐚𝐦𝐮 𝐡𝐚𝐫𝐮𝐬 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐥𝐞𝐛𝐢𝐡 𝐝𝐮𝐥𝐮 𝐚𝐠𝐚𝐫 𝐤𝐨𝐧𝐭𝐞𝐧 𝐛𝐢𝐬𝐚 𝐝𝐢𝐛𝐮𝐤𝐚\n\n𝐒𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",

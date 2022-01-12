@@ -10,27 +10,27 @@
   "logo": "https://telegra.ph/file/8df319c48529c36e7785c.png",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "Bot token lu, Ambil dari @Botfather",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "description": "isi nomor ID lu sebagai owner bot",
+      "value": "1172673317"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+      "description": "app id lu, ambil dari my.telegram.org",
       "value": ""
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "api hash lu, ambil dari my.telegram.org",
       "value": ""
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
+      "description": "buat channel (database channel), lalu jadikan bot sebagai admin di channel, taruh ID nya disini",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "description": "id channel atau group, jika tidak ingin memakai forcesub isi 0",
       "value": "0"
     },
     "START_MESSAGE": {
@@ -42,7 +42,7 @@
       "value": "𝐇𝐞𝐥𝐥𝐨 {mention}\n\n<b>𝐊𝐚𝐦𝐮 𝐡𝐚𝐫𝐮𝐬 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐥𝐞𝐛𝐢𝐡 𝐝𝐮𝐥𝐮 𝐚𝐠𝐚𝐫 𝐤𝐨𝐧𝐭𝐞𝐧 𝐛𝐢𝐬𝐚 𝐝𝐢𝐛𝐮𝐤𝐚\n\n𝐒𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>"
     },
     "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
+      "description": "isi user_ids sebagai Admin bot, yg bisa menggunakan bot lu",
       "value": "",
       "required": false
     }

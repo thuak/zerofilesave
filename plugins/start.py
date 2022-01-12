@@ -94,7 +94,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("🔺️𝐑𝐞𝐩𝐨🔺️", url = "t.me/xproject13")
                 ],
                 [
-                    InlineKeyboardButton("🔺️𝐂𝐥𝐨𝐬𝐞🔺️", callback_data = "close")
+                    InlineKeyboardButton("🔻𝐂𝐥𝐨𝐬𝐞🔻", callback_data = "close")
                 ]
             ]
         )
@@ -125,7 +125,7 @@ async def not_joined(client: Client, message: Message):
         buttons.append(
             [
                 InlineKeyboardButton(
-                    text = '🔺️COBA LAGI🔺️',
+                    text = '🔻COBA LAGI🔻',
                     url = f"https://t.me/{client.username}?start={message.command[1]}"
                 )
             ]

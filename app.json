@@ -1,5 +1,5 @@
 {
-  "name": "Zero File Save",
+  "name": "pascolgenk",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -35,11 +35,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "𝐇𝐞𝐥𝐥𝐨 {mention}\n\n𝐒𝐚𝐲𝐚 𝐚𝐤𝐚𝐧 𝐦𝐞𝐧𝐠𝐮𝐛𝐚𝐡 𝐟𝐢𝐥𝐞 𝐦𝐞𝐧𝐣𝐚𝐝𝐢 𝐬𝐩𝐞𝐬𝐢𝐚𝐥 𝐥𝐢𝐧𝐤."
+      "value": "welcome {mention}\n\nsaya merubah file vidio anda jadi link."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "𝐇𝐞𝐥𝐥𝐨 {mention}\n\n<b>𝐊𝐚𝐦𝐮 𝐡𝐚𝐫𝐮𝐬 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐥𝐞𝐛𝐢𝐡 𝐝𝐮𝐥𝐮 𝐚𝐠𝐚𝐫 𝐤𝐨𝐧𝐭𝐞𝐧 𝐛𝐢𝐬𝐚 𝐝𝐢𝐛𝐮𝐤𝐚\n\n𝐒𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐣𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</b>"
+      "value": "welcome  {mention}\n\n<b>kamu harus bergabung ke channel kami agar bisa membuka vidio\n\nsilahkan join channel</b>"
     },
     "ADMINS": {
       "description": "isi user_ids sebagai Admin bot, yg bisa menggunakan bot lu",

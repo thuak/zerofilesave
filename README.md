@@ -1,16 +1,14 @@
 <h1 align="center"> 
-     💥ZEROFILESAVE💥
+     
 </h1>
  
 
 ## Telegram Bot to store Posts and Documents and it can Access by Special Links.
 
-[Zero](t.me/fuckinzero13)
-[Channel](t.me/xproject13)
 
 ## Click The Image And Deploy Your Bot
 
-[![Deploy](https://telegra.ph/file/8df319c48529c36e7785c.png)](https://heroku.com/deploy?template=https://github.com/zerosquad13/zerofilesave.git)
+[![Deploy](https://telegra.ph/file/68371c6dd468375c5233e.png)](https://heroku.com/deploy?template=https://github.com/zerosquad13/zerofilesave.git)
 
 ### Admin Commands
 

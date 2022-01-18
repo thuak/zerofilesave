@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/zerosquad13/zerofilesave",
-  "logo": "https://telegra.ph/file/8df319c48529c36e7785c.png",
+  "logo": "https://telegra.ph/file/68371c6dd468375c5233e.png",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Bot token lu, Ambil dari @Botfather",
